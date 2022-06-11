@@ -1,0 +1,12 @@
+.Container{
+    display: flex;
+    height: 868px;
+    justify-content: center;
+    align-items: center;
+    background-color:#23252C ;
+    
+}
+
+.Container-Card{
+    height: 780px;
+}

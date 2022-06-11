@@ -1,0 +1,17 @@
+.Container-buttons{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #1A1B21;
+    padding-top: 15px;
+}
+
+.Email, .Linkedin{
+    width: 115px;
+    height: 34px;
+    margin:0;
+}
+
+.Email{
+    margin-right: 17px;
+}

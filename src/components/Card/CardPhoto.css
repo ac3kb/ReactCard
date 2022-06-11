@@ -1,0 +1,13 @@
+.Container-Photo{
+    display: flex;
+    background-color: #1A1B21;
+    justify-content: center;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.Photo{
+    margin:0;
+    height: 317px;
+    width: 317px;
+    padding-bottom: 21px;
+}
